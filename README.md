@@ -1,21 +1,36 @@
-### Hi there 👋
-Young Developer of Front-End! <br> 
 
-Welcome to my GitHub repository! I am a young tech enthusiast and passionate about website development.<br>
-My name is Erik, a Computer Technician and Systems Analyst and Developer.<br>
-From an early age, I had a natural interest in technology and its constant advancement.<br>
-I’ve always been curious about how things work behind screens and how we can create amazing experiences for users.<br> 
-Over the years,  I’ve been honing my skills in front-end development, focusing on website and application development.<br>
-I am committed to improving my skills and contributing to interesting projects. I believe in the importance of collaboration and knowledge sharing to drive technological evolution.<br>
-Through this repository, I intend to share projects, examples and resources related to front-end development and site creation.<br>
-In addition to sharing my own projects, I am open to collaborate on other interesting projects.<br> 
-If you have a project in which you believe I can contribute, feel free to contact me. I’m excited to work as a team and learn from other talented developers.<br>
-If you have any questions, suggestions or just want to chat about technology and development, do not hesitate to contact me. You can find me on the following channels<br>
 
-Email: eriktsm25@gmail.com <br>
-LinkedIn: https://www.linkedin.com/in/erik-sousa-marques-490137199/
+# Erik SM - Desenvolvedor Python
 
-Thank you for visiting my repository! Let’s build an amazing future together.
+Sou Erik, um desenvolvedor Python apaixonado por tecnologia em constante aprendizado. Este README é uma introdução rápida sobre mim e o que faço.
+
+## Sobre Mim
+
+- 🚀 Desenvolvedor Python em constante evolução.
+- 📚 Apaixonado por aprender novas tecnologias e conceitos.
+- 💻 Habilidades em Python, HTML, CSS, Git, GitHub e Notion.
+
+## Habilidades
+
+- **Python:** Minha linguagem de programação preferida, com experiência em desenvolvimento de aplicações web, scripts e automação.
+- **HTML & CSS:** Conhecimento sólido em desenvolvimento web, incluindo a criação de páginas web responsivas e estilizadas.
+- **Git & GitHub:** Proficiente em controle de versão e colaboração em projetos de código aberto.
+- **Notion:** Uso o Notion para organização, documentação e acompanhamento de projetos.
+
+## Contato
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/e_r_k25/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/erik-sousa-marques-490137199/) 
+
+
+
+## Contribuições
+
+Se você estiver interessado em colaborar em algum projeto ou tiver alguma pergunta, sinta-se à vontade para entrar em contato. Estou sempre aberto a novas oportunidades e desafios emocionantes.
+
+Fique à vontade para explorar meus repositórios no GitHub para conhecer mais sobre meu trabalho e projetos. Obrigado por visitar meu perfil!
+
 
 
 
