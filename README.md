@@ -1,21 +1,21 @@
 
 
-# Erik SM - Desenvolvedor Python
+# Erik SM - Desenvolvedor Java e No Code
 
-Sou Erik, um desenvolvedor Python apaixonado por tecnologia em constante aprendizado. Este README é uma introdução rápida sobre mim e o que faço.
+Sou Erik, um desenvolvedor Java apaixonado por tecnologia em constante aprendizado. Este README é uma introdução rápida sobre mim e o que faço.
 
 ## Sobre Mim
 
-- 🚀 Desenvolvedor Python em constante evolução.
+- 🚀 Desenvolvedor Java em constante evolução.
 - 📚 Apaixonado por aprender novas tecnologias e conceitos.
-- 💻 Habilidades em Python, HTML, CSS, Git, GitHub e Notion.
+- 💻 Habilidades em Java, Bubble, HTML, CSS, Git, GitHub e Notion.
 
 ## Habilidades
 
-- **Python:** Minha linguagem de programação preferida, com experiência em desenvolvimento de aplicações web, scripts e automação.
+- **Java:** Minha linguagem de programação preferida, com experiência em desenvolvimento de aplicações web, scripts e automação.
 - **HTML & CSS:** Conhecimento sólido em desenvolvimento web, incluindo a criação de páginas web responsivas e estilizadas.
 - **Git & GitHub:** Proficiente em controle de versão e colaboração em projetos de código aberto.
-- **Notion:** Uso o Notion para organização, documentação e acompanhamento de projetos.
+- **Bubble:** Uso o Bubble para criação de aplicativos sem a necessidade de programar.
 
 ## Contato
 
