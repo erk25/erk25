@@ -1,35 +1,34 @@
 
 
-# Erik SM - Desenvolvedor Java e No Code
+# Erik SM - Python and NO-CODE developer
+I’m Erik, a Python developer passionate about constantly learning technology. This README is a quick introduction to me and what I do.
 
-Sou Erik, um desenvolvedor Java apaixonado por tecnologia em constante aprendizado. Este README é uma introdução rápida sobre mim e o que faço.
+## About Me
 
-## Sobre Mim
+- 🚀 Python developer in constant evolution.
+- 📚 Passionate about learning new technologies and concepts.
+- 💻 Skills in Python, Bubble, HTML, CSS, Git and GitHub.
 
-- 🚀 Desenvolvedor Java em constante evolução.
-- 📚 Apaixonado por aprender novas tecnologias e conceitos.
-- 💻 Habilidades em Java, Bubble, HTML, CSS, Git, GitHub e Notion.
+## Skills
 
-## Habilidades
+- **Python:** My preferred programming language, with experience in web application development, scripting and automation.
+- **HTML & CSS:** Solid knowledge in web development, including the creation of responsive and stylized web pages.
+- **Git & GitHub:** Proficient in version control and collaboration on open source projects.
+- **Bubble:** I use Bubble to create applications without the need for programming.
 
-- **Java:** Minha linguagem de programação preferida, com experiência em desenvolvimento de aplicações web, scripts e automação.
-- **HTML & CSS:** Conhecimento sólido em desenvolvimento web, incluindo a criação de páginas web responsivas e estilizadas.
-- **Git & GitHub:** Proficiente em controle de versão e colaboração em projetos de código aberto.
-- **Bubble:** Uso o Bubble para criação de aplicativos sem a necessidade de programar.
-
-## Contato
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/e_r_k25/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/erik-sousa-marques-490137199/) 
+## Contact
 
 
+[! [Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/e_r_k25/)
+[! [LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/esm25/) 
 
-## Contribuições
 
-Se você estiver interessado em colaborar em algum projeto ou tiver alguma pergunta, sinta-se à vontade para entrar em contato. Estou sempre aberto a novas oportunidades e desafios emocionantes.
 
-Fique à vontade para explorar meus repositórios no GitHub para conhecer mais sobre meu trabalho e projetos. Obrigado por visitar meu perfil!
+## Contributions
+
+If you are interested in collaborating on a project or have any questions, feel free to contact us. I am always open to new exciting opportunities and challenges.
+
+Feel free to explore my repositories on GitHub to learn more about my work and projects. Thank you for visiting my profile!
 
 
 
