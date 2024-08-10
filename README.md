@@ -1,28 +1,9 @@
 
 
 # Erik SM - Python and NO-CODE developer
-I’m Erik, a Python developer passionate about constantly learning technology. This README is a quick introduction to me and what I do.
+👋 Hello! I am a student of Analysis and Systems Development, currently in the 4th period, focusing on expanding my knowledge in programming, especially in Python. During my journey as a Young Apprentice at Bunge, I am developing systems and models to optimize industrial processes and assist in the company’s operations.
 
-## About Me
-
-- 🚀 Python developer in constant evolution.
-- 📚 Passionate about learning new technologies and concepts.
-- 💻 Skills in Python, Bubble, HTML, CSS, Git and GitHub.
-
-## Skills
-
-- **Python:** My preferred programming language, with experience in web application development, scripting and automation.
-- **HTML & CSS:** Solid knowledge in web development, including the creation of responsive and stylized web pages.
-- **Git & GitHub:** Proficient in version control and collaboration on open source projects.
-- **Bubble:** I use Bubble to create applications without the need for programming.
-
-## Contact
-
-
-[! [Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/e_r_k25/)
-[! [LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/esm25/) 
-
-
+I am always looking to learn and apply new technologies in practical projects, combining theory with real experience. If you want to follow my development, connect or exchange ideas, feel free to follow me on https://www.linkedin.com/in/esm25/.
 
 ## Contributions
 
