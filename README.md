@@ -1,7 +1,7 @@
 
 
-# Erik SM - Python and NO-CODE developer
-👋 Hello! I am a student of Analysis and Systems Development, currently in the 4th period, focusing on expanding my knowledge in programming, especially in Python. During my journey as a Young Apprentice at Bunge, I am developing systems and models to optimize industrial processes and assist in the company’s operations.
+# Erik SM - Data Analyst
+👋 Hello! I am a graduate of Analysis and Systems Development, focusing on expanding my knowledge in Data Analyst, especially in Power Bi/SQL/Excel. During my journey as a  Apprentice by Operations and Data Analyst at Bunge, I am developing systems and models to optimize industrial processes and assist in the company’s operations.
 
 I am always looking to learn and apply new technologies in practical projects, combining theory with real experience. If you want to follow my development, connect or exchange ideas, feel free to follow me on https://www.linkedin.com/in/esm25/.
 
